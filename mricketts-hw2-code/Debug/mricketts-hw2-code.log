@@ -1,2 +1,7 @@
 ﻿  Source.cpp
-  mricketts-hw2-code.vcxproj -> G:\Other computers\Drive\Drive\2022_Spring\CS210\HW\HW2\mricketts-hw2-code\Debug\mricketts-hw2-code.exe
+C:\Users\mattr\Desktop\Drive\2022_Spring\CS210\HW\HW2\mricketts-hw2-code\mricketts-hw2-code\Source.cpp(126,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mattr\Desktop\Drive\2022_Spring\CS210\HW\HW2\mricketts-hw2-code\mricketts-hw2-code\BinarySearchTree.h(63): warning C4172: returning address of local variable or temporary
+C:\Users\mattr\Desktop\Drive\2022_Spring\CS210\HW\HW2\mricketts-hw2-code\mricketts-hw2-code\BinarySearchTree.h(76): warning C4172: returning address of local variable or temporary
+C:\Users\mattr\Desktop\Drive\2022_Spring\CS210\HW\HW2\mricketts-hw2-code\mricketts-hw2-code\Stack.h(25): warning C4172: returning address of local variable or temporary: retVal
+C:\Users\mattr\Desktop\Drive\2022_Spring\CS210\HW\HW2\mricketts-hw2-code\mricketts-hw2-code\Stack.h(25): warning C4172: returning address of local variable or temporary: retVal
+  mricketts-hw2-code.vcxproj -> C:\Users\mattr\Desktop\Drive\2022_Spring\CS210\HW\HW2\mricketts-hw2-code\Debug\mricketts-hw2-code.exe

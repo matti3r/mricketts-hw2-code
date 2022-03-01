@@ -1,4 +1,7 @@
 #pragma once
+
+#include "list.h"
+
 template <typename Object>
 class Stack
 {
